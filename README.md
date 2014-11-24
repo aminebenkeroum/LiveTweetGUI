@@ -14,6 +14,7 @@ This is a simple HTML UI that allows you to show live tweets for special events 
   You can also choose the delay between tweets
          <code>
          // time to refresh last tweet
+
     	   var refresh_delai = 6000;
     	   </code>
   2. If you wanna send more parameters to Twitter Api 1.0 please uncomment the parameters var in line 17
