@@ -1,8 +1,8 @@
 LiveTweetGUI
 ============
 
-Live tweets GUI for events
 
+![Alt text](http://i.imgur.com/RXcybqf.png "Live tweets GUI for events")
 This is a simple HTML UI that allows you to show live tweets for special events based on JQuery & Twitter's OAuth API for PHP
   
   Configure the LiveTweetGUI
